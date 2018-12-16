@@ -1,6 +1,7 @@
 
 .container {
-    padding-top: 70px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 nav a { 
     float: inline-block;
@@ -39,7 +40,6 @@ nav a {
       margin:auto;
   }
 
-  .nav-link {
-      
-
+#resize {
+      width: -30%;
   }

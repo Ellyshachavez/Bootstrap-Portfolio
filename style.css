@@ -40,6 +40,11 @@ nav a {
       margin:auto;
   }
 
-#resize {
-      width: -30%;
+  #row1 {
+      text-align: center;
+  }
+
+  #row2 {
+      margin-right: 10%;
+      text-align: center;
   }
